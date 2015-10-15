@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1438105419 source:c:\users\ritwik\desktop\c++\cy\main.cpp
+	<stack>
+	<iostream>
+	<algorithm>
+	<string.h>
+

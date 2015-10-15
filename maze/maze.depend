@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1441372014 source:c:\users\ritwik\desktop\c++\maze\main.cpp
+	<iostream>
+	<string.h>
+

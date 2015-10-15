@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1431093348 source:c:\users\ritwik\desktop\c++\mult\main.cpp
+	<iostream>
+	<algorithm>
+

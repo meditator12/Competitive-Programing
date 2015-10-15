@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1441217048 source:c:\users\ritwik\desktop\c++\co_prime\main.cpp
+	<iostream>
+	<algorithm>
+	<cstdio>
+

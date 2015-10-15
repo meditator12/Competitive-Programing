@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1442129253 source:c:\users\ritwik\desktop\c++\code\main.cpp
+	<vector>
+	<list>
+	<map>
+	<set>
+	<queue>
+	<deque>
+	<stack>
+	<bitset>
+	<algorithm>
+	<functional>
+	<numeric>
+	<utility>
+	<sstream>
+	<iostream>
+	<iomanip>
+	<cstdio>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	<string>
+	<vector>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1432128743 source:c:\users\ritwik\desktop\c++\ransort\main.cpp
+	<iostream>
+	<algorithm>
+

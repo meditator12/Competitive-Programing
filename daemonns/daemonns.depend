@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1439025009 source:c:\users\ritwik\desktop\c++\daemonns\main.cpp
+	<iostream>
+	<string.h>
+	<algorithm>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1440602305 source:c:\users\ritwik\desktop\c++\shift\main.cpp
+	<algorithm>
+	<iostream>
+	<vector>
+

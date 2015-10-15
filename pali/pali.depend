@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1430209808 source:c:\users\ritwik\desktop\c++\pali\main.cpp
+	<iostream>
+	<cstdio>
+	<math.h>
+

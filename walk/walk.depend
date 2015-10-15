@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1440395548 source:c:\users\ritwik\desktop\c++\walk\main.cpp
+	<iostream>
+	<string.h>
+

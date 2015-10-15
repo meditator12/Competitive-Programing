@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1444845329 source:c:\users\ritwik\desktop\c++\.cbp\sub\main.cpp
+	<iostream>
+	<string.h>
+	<math.h>
+

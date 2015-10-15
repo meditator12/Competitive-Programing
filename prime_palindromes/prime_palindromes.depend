@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1440402948 source:c:\users\ritwik\desktop\c++\prime_palindromes\main.cpp
+	<iostream>
+	<string.h>
+	<math.h>
+	<sstream>
+

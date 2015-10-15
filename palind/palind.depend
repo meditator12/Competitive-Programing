@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1426330254 source:c:\users\ritwik\desktop\c++\palind\main.cpp
+	<iostream>
+	<string.h>
+

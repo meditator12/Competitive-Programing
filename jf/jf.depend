@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1435682283 source:c:\users\ritwik\desktop\c++\jf\main.cpp
+	<iostream>
+	<algorithm>
+

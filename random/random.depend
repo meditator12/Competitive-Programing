@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1440435758 source:c:\users\ritwik\desktop\c++\random\main.cpp
+	<iostream>
+	<string.h>
+	<algorithm>
+

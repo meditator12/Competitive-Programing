@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1428781280 source:c:\users\ritwik\desktop\c++\google2\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1441128262 source:c:\users\ritwik\desktop\c++\min_squar\main.cpp
+	<iostream>
+	<cmath>
+

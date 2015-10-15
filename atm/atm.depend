@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1439227886 source:c:\users\ritwik\desktop\c++\atm\main.cpp
+	<iostream>
+	<cstdio>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1439813299 source:c:\users\ritwik\desktop\c++\prac_gsoc\main.cpp
+	<iostream>
+	<vector>
+	<stdio.h>
+	<string.h>
+	<stdio.h>
+

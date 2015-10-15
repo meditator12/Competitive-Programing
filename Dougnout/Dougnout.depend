@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1441433247 source:c:\users\ritwik\desktop\c++\dougnout\main.cpp
+	<iostream>
+	<algorithm>
+	<cstdio>
+	<math.h>
+

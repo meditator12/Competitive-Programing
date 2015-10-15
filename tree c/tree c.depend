@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1439723192 source:c:\users\ritwik\desktop\c++\tree c\main.cpp
+	<iostream>
+	<malloc.h>
+	<stdio.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1440393460 source:c:\users\ritwik\desktop\c++\prac_basic_prog\main.cpp
+	<iostream>
+	<math.h>
+

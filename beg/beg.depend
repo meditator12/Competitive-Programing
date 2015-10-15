@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1440567104 source:c:\users\ritwik\desktop\c++\beg\main.cpp
+	<iostream>
+	<cstdio>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1429197611 source:c:\users\ritwik\desktop\c++\gold_coin\main.cpp
+	<iostream>
+	<cstdio>
+	<string.h>
+
